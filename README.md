@@ -6,9 +6,18 @@
 
 ___
 
-Я начинающий веб-разработчик. Первые полгода изучал основы с помощью книг-самоучителей, YouTube-каналов, MDN и LearnJavascript. После, прошёл годовой курс в "Яндекс Практикум" по специальности "Веб-разработчик", успешно защитил дипломный проект. Учёба на курсах привела к ощутимому результату, теперь я могу написать React-приложение, создать для него несложный бэкенд, и задеплоить на удалённый сервер с применением базы данных MongoDB. В свободное время люблю велоспорт и путешествия.
+• С января 2023 интенсивно обучаюсь Frontend разработке, список моих навыков:
+JavaScript(ES6), HTML,CSS, React, TypeScript, Express, Webpack, MongoDB
+• Начинал трудовую деятельность в продажах, получил хороший опыт общения с людьми,
+решения конфликтных ситуаций
+• Имею управленческий опыт, исполнял обязанности начальника офиса продаж.
+• Всю жизнь занимаюсь спортом: футбол, хоккей, велоспорт
+• При первой же возможности еду в путешествие, пляжному отдыху предпочитаю 30 тысяч
+шагов в день
+• Со мной можно связаться в telegram: @pagedownone
 
-* 🖥️  Моё портфолио [по этой ссылке](http://movies-explorer.pna.nomoredomainsrocks.ru/)
+* 🖥️  [Календарь на TypeScript](https://gitnikolas.github.io/healthy-calendar/)
+* 🖥️  Проект по поиску фильмов [Movies Explorer](http://movies-explorer.pna.nomoredomainsrocks.ru/)
 
 
 #### 🤝 Социальные сети:
@@ -26,9 +35,10 @@ ___
 ___
 
 ### Технологии
-
+![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
 - Пишу SPA-приложения на React, используя функциональные компоненты.
