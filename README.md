@@ -6,6 +6,16 @@
 
 ___
 
+## Последние проекты:
+
+* 🖥️  Интернет-магазин "Internet-shop": https://internetshoppet.ru
+* 🖥️  Проект по поиску фильмов "Movies Explorer": https://movies-explorer.pna.nomoredomainsrocks.ru
+* 🖥️  Календарь на TypeScript: https://gitnikolas.github.io/healthy-calendar
+
+___
+
+### Обо мне
+
 • С января 2023 интенсивно обучаюсь Frontend разработке, список моих навыков:
 JavaScript(ES6), HTML,CSS, React, TypeScript, Express, Webpack, MongoDB
 • Начинал трудовую деятельность в продажах, получил хороший опыт общения с людьми,
@@ -16,8 +26,6 @@ JavaScript(ES6), HTML,CSS, React, TypeScript, Express, Webpack, MongoDB
 шагов в день
 • Со мной можно связаться в telegram: @pagedownone
 
-* 🖥️  [Календарь на TypeScript](https://gitnikolas.github.io/healthy-calendar/)
-* 🖥️  Проект по поиску фильмов [Movies Explorer](http://movies-explorer.pna.nomoredomainsrocks.ru/)
 
 
 #### 🤝 Социальные сети:
