@@ -9,6 +9,7 @@ ___
 ## Последние проекты:
 
 * 🖥️  Интернет-магазин "Internet-shop": https://internetshoppet.ru
+* 🖥️  Подгрузка последних 100 новостей с ресурса hacker news на базе VKUI: https://prod-app51914940-996a8dda5448.pages-ac.vk-apps.com/index.html
 * 🖥️  Проект по поиску фильмов "Movies Explorer": https://movies-explorer.pna.nomoredomainsrocks.ru
 * 🖥️  Календарь на TypeScript: https://gitnikolas.github.io/healthy-calendar
 
