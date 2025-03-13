@@ -3,6 +3,8 @@
 #### Web-developer
 
 ___
+Work now: Uchi.ru
+___
 
 ## Последние проекты:
 
